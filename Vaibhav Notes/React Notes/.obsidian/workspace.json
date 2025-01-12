@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e210b5a7230e1f7f",
+        "id": "6a1cc432e3bcb5ee",
         "type": "tabs",
         "children": [
           {
-            "id": "10afa2df5d97b6ef",
+            "id": "5f5a18a21b938fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10afa2df5d97b6ef",
+  "active": "5f5a18a21b938fcd",
   "lastOpenFiles": [
     "Namaste_React/0.Index.md",
     "Namaste_React/1.Inception.md",
+    "1.Inception.md",
     "Namaste.md",
     "Namaste_React",
     "Welcome.md"
